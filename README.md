@@ -1,10 +1,22 @@
-Studio Lite
+# Studio Lite
 
 Studio Lite adalah aplikasi Android untuk membuat dan mengedit map secara lokal.
 
-Project ini dikembangkan oleh Studio ZY dan masih dalam tahap pengembangan.
+Project ini dikembangkan oleh **Studio ZY** dan masih dalam tahap pengembangan.
 
-Features
+## Screenshots
+
+<p align="center">
+  <img src="assets/Menu.png" width="400" alt="Menu"><br>
+  <em>Menu</em>
+</p>
+
+<p align="center">
+  <img src="assets/Editor.png" width="400" alt="Editor"><br>
+  <em>Editor</em>
+</p>
+
+## Features
 
 - Map editor
 - Terrain editor
@@ -16,43 +28,44 @@ Features
 - Android ARM64 support
 - Offline map editing
 
-Requirements
+## Requirements
 
 - Android 8.0 atau lebih baru
 - ARM64
 - RAM minimal 2 GB
 
-Latest Version
+## Latest Version
 
-v0.0.1
+**v0.0.1**
 
 Versi ini merupakan versi awal untuk pengujian publik.
 
-Download
+## Download
 
-Download APK terbaru melalui halaman GitHub Releases.
+Download APK terbaru melalui halaman [GitHub Releases](../../releases).
 
-Version History
+## Version History
 
-Version| Status
-v0.0.1| Initial Release
+| Version | Status          |
+|---------|-----------------|
+| v0.0.1  | Initial Release |
 
-Untuk melihat perubahan setiap versi, lihat "CHANGELOG.md" (CHANGELOG.md).
+Untuk melihat perubahan setiap versi, lihat [CHANGELOG.md](CHANGELOG.md).
 
-Development
+## Development
 
 Studio Lite sedang dalam pengembangan aktif.
 
 Fitur, tampilan, sistem terrain, scripting, dan performa dapat berubah pada versi berikutnya.
 
-Developer
+## Developer
 
-Studio ZY
+**Studio ZY**
 
-Developer: "Mzyy_Studio"
+- Developer: `Mzyy_Studio`
+- Support: `SYGKMUNII`
 
-Support: "SYGKMUNII"
+## License
 
-License
+Project ini menggunakan lisensi yang tercantum pada file [LICENSE](LICENSE).
 
-Project ini menggunakan lisensi yang tercantum pada file "LICENSE" (LICENSE).
