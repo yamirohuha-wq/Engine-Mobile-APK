@@ -18,6 +18,18 @@ You may NOT:
 
 Official releases are distributed through the official Studio ZY release channels.
 
+Official Studio ZY Channels
+
+Follow the official Studio ZY channels for updates, announcements, releases, and information about Studio Lite.
+
+WhatsApp Channel:
+https://whatsapp.com/channel/0029Vb78JlUFi8xWGpJzfW1p
+
+Official Discord:
+https://discord.gg/UErR8e3Bmg
+
+Always verify that downloads and announcements come from the official Studio ZY channels.
+
 Studio ZY reserves all rights not expressly granted by this license.
 
 For permission to use, modify, redistribute, or commercially use any part of this project, contact Studio ZY.
